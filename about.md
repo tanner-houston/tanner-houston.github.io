@@ -13,6 +13,6 @@ His current research interest are in organizational learning, innovation of heal
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, Tanner enjoys spending time outdoors, working out, and keeping up with all things Formula 1. He lives in Watertown, MA with his beautiful wife, two huskies, 2 cats, and a tortoise named Marlow. 
+As a hobby, Tanner enjoys spending time outdoors, working out, and keeping up with all things Formula 1. He lives in Watertown, MA with his beautiful wife, two huskies legend & Nora, two cats Corbin & Malcolm, and a tortoise named Marlow. 
 
 *Thank You for reading!*
