@@ -5,12 +5,14 @@ description: An optional about page for Scriptor Jekyll theme
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Tanner Houston** is a doctoral student in Health Policy Management at Harvard Business School. He received his B.S. in Exercise Science - Pre Medicine at the University of Texas Arlington, while a member of the baseball team. He then went on to receive his MBA with a concentration in Healthcare Management from Baylor University. 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+Prior to joining the Health Policy PhD program, he was an operations manager within HCA's Physician Service Group overseeing outpatient operations for multiple specialties including orthopedics, cardiology, and solid organ transplant. 
+
+His current research interest are in organizational learning, innovation of healthcare delivery, physician decision making, and measuring the performance of healthcare delivery systems.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+As a hobby, Tanner enjoys spending time outdoors, working out, and keeping up with all things Formula 1. He lives in Watertown, MA with his beautiful wife, two huskies, 2 cats, and a tortoise named Marlow. 
 
 *Thank You for reading!*
