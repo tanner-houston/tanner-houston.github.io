@@ -9,10 +9,11 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Tanner Houston"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Welcome! My name is Tanner Houston. 
+I am a Health Policy (Management) PhD student at Harvard University and Harvard Business School."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -32,12 +33,17 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Style Guide
+  - text: CV
     url: /style-guide/
-  - text: Tags
+  - text: Blog
     url: /tags/
   - text: Download
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+
+externals:
+  - {title: Mail, icon: envelope, url: "mailto:thouston2hbs.edu"}
+  - {title: Github, icon: github, url: "https://github.com/tanner-houston"}
+  - {title: HBS, icon: book, url: "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1470226"}
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
