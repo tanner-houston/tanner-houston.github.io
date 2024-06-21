@@ -16,7 +16,7 @@ permalink: /cv
 > Baylor University
 
 > 2011 - 2016     |        BS Exercise Science; Concentration: **Pre-Medicine**\
-> *Summa Cum Laude*
+> *Summa Cum Laude*\
 > The University of Texas Arlington
 
 
