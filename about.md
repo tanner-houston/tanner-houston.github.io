@@ -1,7 +1,6 @@
 ---
-layout: page
-title: A Little About Me
-permalink: https://tanner-houston.github.io/About
+layout: default
+title: "A Little About Me"
 ---
 
 **Tanner Houston** is a doctoral student in Health Policy Management at Harvard Business School. He received his B.S. in Exercise Science - Pre Medicine at the University of Texas Arlington, while a member of the baseball team. He then went on to receive his MBA with a concentration in Healthcare Management from Baylor University. 
