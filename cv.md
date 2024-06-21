@@ -10,7 +10,7 @@ permalink: /cv
   
 ## Education
 > 2023 - Current  |                                       PhD Health Policy; Concentration: **Management**
-                                                        <p>Harvard University/Harvard Business Scool</p>
+> Harvard University/Harvard Business Scool
 
 > 2018 - 2020     |                                        MBA Healthcare Administration <p>Baylor University</p>
 
