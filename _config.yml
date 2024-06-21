@@ -32,7 +32,7 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: "https://tanner-houston.github.io/about"
   - text: CV
     url: /style-guide/
   - text: Blog
