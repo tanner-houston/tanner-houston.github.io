@@ -31,8 +31,8 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - {file: "about.md", text: About}
-    url: /about/
+  - text: About
+    file: "about.md"
   - text: CV
     url: /style-guide/
   - text: Blog
