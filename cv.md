@@ -9,14 +9,15 @@ permalink: /cv
 - Website: [HBS Profile](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1470226)
   
 ## Education
-> 2023 - Current  |       PhD Health Policy; Concentration: **Management**
+> 2023 - Current  |       PhD Health Policy; Concentration: **Management**\
 > Harvard University/Harvard Business Scool
 
-> 2018 - 2020     |                                        MBA Healthcare Administration <p>Baylor University</p>
+> 2018 - 2020     |        MBA Healthcare Administration\
+> Baylor University
 
-> 2011 - 2016     |                                         BS Exercise Science; Concentration: **Clinical Health**
-                                                                  <p>*Summa Cum Laude*</p>
-                                                                  <p>The University of Texas Arlington</p>
+> 2011 - 2016     |        BS Exercise Science; Concentration: **Pre-Medicine**\
+> *Summa Cum Laude*
+> The University of Texas Arlington
 
 
 ### Heading 3
