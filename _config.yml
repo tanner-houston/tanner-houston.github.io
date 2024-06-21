@@ -31,8 +31,9 @@ google_analytics: ""
 navigation:
   - text: Home
     url: /
-  - text: About
-    file: "about.md"
+  - file: "about.md"
+    text: About
+    url: "https://tanner-houston.github.io/About"
   - text: CV
     url: /style-guide/
   - text: Blog
