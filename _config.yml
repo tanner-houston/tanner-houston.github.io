@@ -30,7 +30,7 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - {text: Home, url: /}
-  - {text: About, url: /about/}
+  - {text: About, url: /about}
   - {text: CV, url: /style-guide/}
   - {text: Blog, file: "style-guide.md"}
 
