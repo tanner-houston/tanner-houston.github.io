@@ -29,17 +29,10 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
-    url: /
-  - file: "about.md"
-    text: About
-    url: "https://tanner-houston.github.io/About"
-  - text: CV
-    url: /style-guide/
-  - text: Blog
-    url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - {text: Home, url: /}
+  - {file: "about.md", text: About}
+  - {text: CV, url: /style-guide/}
+  - {text: Blog, url: /tags/}
 
 externals:
   - {title: Mail, icon: envelope, url: "mailto:thouston2hbs.edu"}
