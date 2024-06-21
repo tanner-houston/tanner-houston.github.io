@@ -32,7 +32,7 @@ navigation:
   - text: Home
     url: /
   - text: About
-    file: "about.md"
+    url: /about/
   - text: CV
     url: /style-guide/
   - text: Blog
