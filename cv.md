@@ -2,20 +2,21 @@
 layout: page
 title: "Curriculum Vitae"
 permalink: /cv
-attrs:
-  contact: thouston@hbs.edu; tanner_houston@g.harvard.edu
-  website: https://tanner-houston.github.io
 ---
+### Contact
+- Primary Email: <thouston@hbs.edu>
+- Secondary Email: <tanner_houston@g.harvard.edu>
+- Website: [HBS Profile](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1470226)
+  
 ## Education
-    2023 - Current                                                  PhD Health Policy; Concentration: Management
-                                                                    Harvard University/Harvard Business Scool
+> 2023 - Current  |                                       PhD Health Policy; Concentration: **Management**
+                                                        <p>Harvard University/Harvard Business Scool</p>
 
-    2018 - 2020                                                     MBA Healthcare Administration
-                                                                    Baylor University
+> 2018 - 2020     |                                        MBA Healthcare Administration <p>Baylor University</p>
 
-    2011 - 2016                                                     BS Exercise Science; Concentration: Clinical Health
-                                                                    *Summa Cum Laude*
-                                                                    The University of Texas Arlington
+> 2011 - 2016     |                                         BS Exercise Science; Concentration: **Clinical Health**
+                                                                  <p>*Summa Cum Laude*</p>
+                                                                  <p>The University of Texas Arlington</p>
 
 
 ### Heading 3
