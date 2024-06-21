@@ -7,7 +7,7 @@ permalink: /cv
 - Primary Email: <thouston@hbs.edu>
 - Secondary Email: <tanner_houston@g.harvard.edu>
 - Website: [HBS Profile](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1470226)
-  [Professional Resume_TannerHouston.pdf](https://github.com/user-attachments/files/15932695/Professional.Resume_TannerHouston.pdf)
+- [Professional Resume_TannerHouston.pdf](https://github.com/user-attachments/files/15932695/Professional.Resume_TannerHouston.pdf)
 
 ## Education
 > 2023 - Current  |       PhD Health Policy; Concentration: **Management**\
