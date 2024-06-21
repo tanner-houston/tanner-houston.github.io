@@ -9,7 +9,7 @@ permalink: /cv
 - Website: [HBS Profile](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1470226)
   
 ## Education
-> 2023 - Current  |                                       PhD Health Policy; Concentration: **Management**
+> 2023 - Current  |       PhD Health Policy; Concentration: **Management**
 > Harvard University/Harvard Business Scool
 
 > 2018 - 2020     |                                        MBA Healthcare Administration <p>Baylor University</p>
