@@ -21,13 +21,25 @@ permalink: /cv
 > The University of Texas Arlington
 
 
-### Heading 3
+## Professional Positions
+> Practice Manager II | 2023
+> HCA Healthcare, North Texas Division
+> Solid Organ Transplant
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+> Director of Ethics & Compliance | 2023
+> HCA Healthcare, North Texas Division
 
-#### Heading 4
+>Practice Manager I | 2021
+>HCA Healthcare, North Texas Division
+>Solid Organ Transplant
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+>Administrative Resident | 2021
+>HCA Healthcare, MidAmerica Division
+
+## Research
+>Kim, F, Sturdivant, R, Fleming, N, Kahle, D, Houston, T, Lamsal, S. “Comparing Costs and
+Utilization Between Airrosti and Five Provider Types for Back and Neck Pain”. Journal of
+Manipulative and Physiological Therapeutics. *(In progress)*
 
 ##### Heading 5
 
