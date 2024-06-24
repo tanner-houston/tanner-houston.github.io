@@ -22,18 +22,18 @@ permalink: /cv
 
 
 ## Professional Positions
-> Practice Manager II | 2023
-> HCA Healthcare, North Texas Division
+> Practice Manager II | 2023\
+> HCA Healthcare, North Texas Division\
 > Solid Organ Transplant
 
-> Director of Ethics & Compliance | 2023
+> Director of Ethics & Compliance | 2023\
 > HCA Healthcare, North Texas Division
 
->Practice Manager I | 2021
->HCA Healthcare, North Texas Division
+>Practice Manager I | 2021\
+>HCA Healthcare, North Texas Division\
 >Solid Organ Transplant
 
->Administrative Resident | 2021
+>Administrative Resident | 2021\
 >HCA Healthcare, MidAmerica Division
 
 ## Research
