@@ -18,7 +18,12 @@
     {
       "title": "LinkedIn",
       "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/tanner-houston-79898816a"
+      "url": "https://linkedin.com/in/tanner-houston-79898816a"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://facebook.com"
     }
   ]
 }
