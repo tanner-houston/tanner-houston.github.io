@@ -35,7 +35,7 @@ navigation:
   - {text: Blog, file: "style-guide.md"}
 
 externals:
-  - {title: Mail, icon: envelope, url: "mailto:thouston2hbs.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:thouston@hbs.edu"}
   - {title: Github, icon: github, url: "https://github.com/tanner-houston"}
   - {title: HBS, icon: book, url: "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1470226"}
 
