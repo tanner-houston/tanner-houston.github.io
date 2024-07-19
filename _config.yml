@@ -13,7 +13,9 @@ title: "Tanner Houston"
 
 # A description of your site for meta tag, search engine results.
 description: "Welcome! My name is Tanner Houston. 
-I am a Health Policy (Management) PhD student at Harvard University and Harvard Business School."
+I am a Health Policy (Management) PhD student at Harvard University and Harvard Business School./
+/
+**Selected Projects**"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
