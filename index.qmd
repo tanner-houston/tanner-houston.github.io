@@ -11,12 +11,14 @@ about:
       href: https://github.com/tanner-houston
     - text: Email
       href: mailto:thouston@hbs.edu
+    - text: CV
+      href: media/Professional Resume_TannerHouston.pdf
 ---
 
 ## Welcome!
 
 My name is Tanner Houston. I am a 2nd year Doctoral Student in the Health Policy (Management) program at Harvard Business School.
 
-My research focuses on competitive strategy specific to the healthcare setting, care delivery innovation, and the effects of vertical consolidation.
+My research focuses on competitive strategy specific to the healthcare setting and is grounded in organization economics.
 
 Check out the **About Me** section to learn more of my interest outside of academia!
