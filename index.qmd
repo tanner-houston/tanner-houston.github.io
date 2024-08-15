@@ -6,7 +6,7 @@ about:
   template: solana
   links: 
     - text: LinkedIn
-      href: www.linkedin.com/in/tanner-houston-79898816a
+      href: https://linkedin.com/in/tanner-houston-79898816a
     - text: Github
       href: https://github.com/tanner-houston
     - text: Email
