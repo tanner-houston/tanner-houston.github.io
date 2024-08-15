@@ -1,11 +1,22 @@
 ---
-title: "tanner-houston.github.io"
+title: "Tanner Houston"
+image: media/HBS Headshot.jpg
+toc: false
+about:
+  template: solana
+  links: 
+    - text: LinkedIn
+      href: www.linkedin.com/in/tanner-houston-79898816a
+    - text: Github
+      href: https://github.com/tanner-houston
+    - text: Email
+      href: mailto:thouston@hbs.edu
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Tanner Houston. I am a 2nd year Doctoral Student in the Health Policy (Management) program at Harvard Business School.
 
-```{r}
-1 + 1
-```
+My research focuses on competitive strategy specific to the healthcare setting, care delivery innovation, and the effects of vertical consolidation.
+
+Check out the **About Me** section to learn more of my interest outside of academia!
