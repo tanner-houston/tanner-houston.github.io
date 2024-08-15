@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Tanner Houston"
+  reader-mode: true
   navbar:
     left:
       - href: index.qmd
