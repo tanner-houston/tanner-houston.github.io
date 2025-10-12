@@ -1,7 +1,7 @@
 ---
 title: "Working and Published Papers"
 listing:
-  contents: papers
+  contents: articles
   sort: "date desc"
   categories: true
   filter-ui: true
