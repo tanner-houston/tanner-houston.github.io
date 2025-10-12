@@ -1,0 +1,8 @@
+---
+title: "Working and Published Papers"
+listing:
+  contents: papers
+  sort: "date desc"
+  categories: true
+  filter-ui: true
+---

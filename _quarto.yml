@@ -6,11 +6,14 @@ website:
   title: "Tanner Houston"
   reader-mode: true
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: papers.qmd
+        text: Papers
 
 format:
   html:
