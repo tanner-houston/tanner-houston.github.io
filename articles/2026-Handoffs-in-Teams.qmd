@@ -1,0 +1,25 @@
+---
+title: "Handoffs in Teams"
+authors:
+  - name: Tanner Houston
+    affiliation: Harvard Business School
+  - name: Robert Huckman
+    affiliation: Harvard Business School
+  - name: Megan Lawrence
+    affiliation: Vanderbilt University Owen Graduate School of Management
+date: 2026-3-19
+categories: ["Working Paper"]
+citation:
+  type:
+  container-title:
+  publisher:
+  volume:
+links:
+  - icon:
+    text:
+    href:
+---
+
+## Abstract
+
+Dynamic teams often face mid-task membership changes, yet we know relatively little about how prior collaboration helps teams adapt when disruptions occur during execution. We study this question in surgical teams using administrative data on 7,143 total hip and knee replacements performed over 6.5 years at a large U.S. academic medical center. Focusing on intra-operative handoffs of scrub and circulating nurses, we estimate effects on procedure duration using fixed-effects models with rich controls and validate results with an instrumental-variables strategy based on predicted overlap with break windows. Intra-operative handoffs increase procedure duration by about 11% relative to a 97-minute mean case time. Team familiarity substantially mitigates this penalty: a one standard deviation increase in familiarity reduces the handoff-related time increase by roughly 40%. These benefits are largest when moving from low to moderate familiarity, with diminishing returns at high familiarity. The findings suggest that familiarity functions as social capital that improves re-coordination after mid-task turnover in dynamic teams.
