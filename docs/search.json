@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tanner Houston",
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Working and Published Papers",
     "section": "",
-    "text": "My name is Tanner Houston. I am a 3rd year doctoral student in the Health Policy (Management) program at Harvard Business School.\nMy current research focuses on the organizational economics of health care with specific interest in team-specific human capital, persistent performance differences across health care providers, and the value of managers.\nOver time I will host my research articles and working papers here, so stay tuned for more to come.\nAlso, check out the About Me section to learn more of my interest outside of academia!"
+    "text": "Handoffs in Teams\n\n\n\nWorking Paper\n\n\n\n\n\n\n\n\n\nMar 19, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nComparing Cost & Utilization of Provider Types for Back and Neck Pain\n\n\n\nPublished\n\n\n\n\n\n\n\n\n\nSep 11, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "articles/2026-Handoffs-in-Teams.html",
+    "href": "articles/2026-Handoffs-in-Teams.html",
+    "title": "Handoffs in Teams",
+    "section": "",
+    "text": "Dynamic teams often face mid-task membership changes, yet we know relatively little about how prior collaboration helps teams adapt when disruptions occur during execution. We study this question in surgical teams using administrative data on 7,143 total hip and knee replacements performed over 6.5 years at a large U.S. academic medical center. Focusing on intra-operative handoffs of scrub and circulating nurses, we estimate effects on procedure duration using fixed-effects models with rich controls and validate results with an instrumental-variables strategy based on predicted overlap with break windows. Intra-operative handoffs increase procedure duration by about 11% relative to a 97-minute mean case time. Team familiarity substantially mitigates this penalty: a one standard deviation increase in familiarity reduces the handoff-related time increase by roughly 40%. These benefits are largest when moving from low to moderate familiarity, with diminishing returns at high familiarity. The findings suggest that familiarity functions as social capital that improves re-coordination after mid-task turnover in dynamic teams."
+  },
+  {
+    "objectID": "articles/2026-Handoffs-in-Teams.html#abstract",
+    "href": "articles/2026-Handoffs-in-Teams.html#abstract",
+    "title": "Handoffs in Teams",
+    "section": "",
+    "text": "Dynamic teams often face mid-task membership changes, yet we know relatively little about how prior collaboration helps teams adapt when disruptions occur during execution. We study this question in surgical teams using administrative data on 7,143 total hip and knee replacements performed over 6.5 years at a large U.S. academic medical center. Focusing on intra-operative handoffs of scrub and circulating nurses, we estimate effects on procedure duration using fixed-effects models with rich controls and validate results with an instrumental-variables strategy based on predicted overlap with break windows. Intra-operative handoffs increase procedure duration by about 11% relative to a 97-minute mean case time. Team familiarity substantially mitigates this penalty: a one standard deviation increase in familiarity reduces the handoff-related time increase by roughly 40%. These benefits are largest when moving from low to moderate familiarity, with diminishing returns at high familiarity. The findings suggest that familiarity functions as social capital that improves re-coordination after mid-task turnover in dynamic teams."
   },
   {
     "objectID": "about.html",
@@ -12,20 +26,6 @@
     "title": "About",
     "section": "",
     "text": "Tanner Houston is a doctoral student in Health Policy Management at Harvard Business School. He received his B.S. in Exercise Science - Pre Medicine at the University of Texas Arlington, while a member of the varsity baseball team. He then went on to receive his MBA with a concentration in Healthcare Management from Baylor University.\nPrior to joining the Health Policy PhD program, he was an operations manager within HCA’s Physician Service Group overseeing outpatient operations for multiple specialties including orthopedics, cardiology, and abdominal transplant surgey.\nHis current research interest are in organizational learning, innovation of healthcare delivery, physician decision making, and measuring the performance of healthcare delivery systems.\nOutside of academia, he enjoys any and all sports, but on any given weekend you can find him watching every second of Formula 1 coverage (proud member of #TeamLH44) or playing disk golf. Some of his favorite books are Hyperion by Dan Simmons and The Gunslinger by Stephen King.\nOriginally from Mansfield, TX he moved to the Boston area with his wife and 5 pets (2 dogs, 2 cats, and a tortoise)."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Tanner Houston",
-    "section": "",
-    "text": "My name is Tanner Houston. I am a 3rd year doctoral student in the Health Policy (Management) program at Harvard Business School.\nMy current research focuses on the organizational economics of health care with specific interest in team-specific human capital, persistent performance differences across health care providers, and the value of managers.\nOver time I will host my research articles and working papers here, so stay tuned for more to come.\nAlso, check out the About Me section to learn more of my interest outside of academia!"
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Working and Published Papers",
-    "section": "",
-    "text": "Comparing Cost & Utilization of Provider Types for Back and Neck Pain\n\n\n\nPublished\n\n\n\n\n\n\n\n\n\nSep 11, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "articles/2025-Cost-Utilization-Provider-Type-Pain.html",
@@ -40,5 +40,19 @@
     "title": "Comparing Cost & Utilization of Provider Types for Back and Neck Pain",
     "section": "",
     "text": "The purpose of this study was to compare treatment expenditures and utilization of licensed doctors of chiropractic or doctors of physical therapy working for Airrosti (AP) compared with non-AP providers (NAP) comprising 5 different provider types.\n\n\n\nThis study was a retrospective, claims-based, cross-sectional study using 5 years of claims and enrollment data from the state of Texas. We compared licensed doctors of chiropractic or doctors of physical therapy working for Airrosti to NAP. Episodes of care for back and neck pain were formed using 90-day clean periods. We utilized propensity scores using inverse probability weighting to control for selection bias. We examined the association of provider type with total costs per episode and 5 different measures of utilization: numbers of visits, length of episode, hospitalization, use of advanced diagnostic imaging, and use of surgery.\n\n\n\nIncluded were 645 799 unique patient episodes of care. Orthopedic specialists, physiatrists, and physical therapists had higher costs and utilization than AP, except for lower visits for orthopedic specialists. Primary care providers had lower costs and utilization than AP, except for hospitalizations, in which no difference was found. AP were most similar to chiropractors in terms of costs and utilization; however, AP had higher use of advanced diagnostic imaging compared with chiropractors. Chiropractors had more visits and longer episodes than AP. Standard deviations for average episode cost, episode length, and number of visits were greater for all provider types compared with AP, except for primary care providers.\n\n\n\nIn the sample studied, providers using standardized treatment pathways had reduced variation and costs for patients with spinal pain. We hypothesize that adherence to treatment pathways that align with recommended clinical practice guidelines that discourage the use of diagnostic imaging and surgery as a first step for treating lower back and neck pain may have resulted in the significant cost and utilization differences found between AP and NAP."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tanner Houston",
+    "section": "",
+    "text": "My name is Tanner Houston. I am a 3rd year doctoral student in the Health Policy (Management) program at Harvard Business School.\nMy current research focuses on the organizational economics of health care with specific interest in team-specific human capital, persistent performance differences across health care providers, and the value of managers.\nOver time I will host my research articles and working papers here, so stay tuned for more to come.\nAlso, check out the About Me section to learn more of my interest outside of academia!"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Tanner Houston",
+    "section": "",
+    "text": "My name is Tanner Houston. I am a 3rd year doctoral student in the Health Policy (Management) program at Harvard Business School.\nMy current research focuses on the organizational economics of health care with specific interest in team-specific human capital, persistent performance differences across health care providers, and the value of managers.\nOver time I will host my research articles and working papers here, so stay tuned for more to come.\nAlso, check out the About Me section to learn more of my interest outside of academia!"
   }
 ]
