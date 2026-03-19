@@ -10,12 +10,8 @@ authors:
 date: 2026-3-19
 categories: ["Working Paper"]
 citation:
-    type: article-journal
-    publisher: Harvard Business School
-links:
-  - icon:
-    text:
-    href:
+  type: article-journal
+  publisher: Harvard Business School
 ---
 
 ## Abstract
